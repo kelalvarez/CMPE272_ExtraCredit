@@ -9,5 +9,10 @@ For this extra credit assignment, I have followed the professor suggestion to im
 
 ## Implementation
 - Set up IBM Bluemix Open Whisk, following : https://console.ng.bluemix.net/openwhisk/sdk/ios
-- asd
+- While setting up IBM Bluemix, I have created an iOS project with an only feature, which is take photos
+- I have 
+
+
+## Conclusions
+While doing this extra credit assignment, I have learnt the powerfull resource that this service can be. While the action of taking fotos could be 
 

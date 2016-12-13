@@ -10,7 +10,7 @@ For this extra credit assignment, I have followed the professor suggestion to im
 ## Implementation
 - Set up IBM Bluemix Open Whisk, following : https://console.ng.bluemix.net/openwhisk/sdk/ios
 - While setting up IBM Bluemix, I have created an iOS project with an only feature, which is take photos
-- I have 
+- I have used CocoaPods to set OpenWhisk
 
 
 ## Conclusions

@@ -14,5 +14,5 @@ For this extra credit assignment, I have followed the professor suggestion to im
 
 
 ## Conclusions
-While doing this extra credit assignment, I have learnt the powerfull resource that this service can be. While the action of taking fotos could be 
+While doing this extra credit assignment, I have learnt the powerfull resource that this service can be. While the action of taking photos could be 
 

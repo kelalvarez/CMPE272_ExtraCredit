@@ -10,9 +10,12 @@ For this extra credit assignment, I have followed the professor suggestion to im
 ## Implementation
 - Set up IBM Bluemix Open Whisk, following : https://console.ng.bluemix.net/openwhisk/sdk/ios
 - While setting up IBM Bluemix, I have created an iOS project with an only feature, which is take photos
-- I have used CocoaPods to set OpenWhisk
+- CocoaPods to import OpenWhisk to be able to use the service
+
+## Comparisons
+
 
 
 ## Conclusions
-While doing this extra credit assignment, I have learnt the powerfull resource that this service can be. While the action of taking photos could be 
+While doing this extra credit assignment, I have learnt the powerfull resource that this service can be. While the action of taking photos could be represent in two different waits 
 

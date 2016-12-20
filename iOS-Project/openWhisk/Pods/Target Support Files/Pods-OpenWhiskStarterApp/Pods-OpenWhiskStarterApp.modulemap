@@ -1,0 +1,6 @@
+framework module Pods_OpenWhiskStarterApp {
+  umbrella header "Pods-OpenWhiskStarterApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

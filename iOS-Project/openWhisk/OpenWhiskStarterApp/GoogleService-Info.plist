@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1090577478419-2pc6hhu4qo5ou22r3ds8fnesgmd9rcs1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1090577478419-2pc6hhu4qo5ou22r3ds8fnesgmd9rcs1</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1090577478419</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kel.cameraAction</string>
+	<key>PROJECT_ID</key>
+	<string>ios-cameraaction</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-cameraaction.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1090577478419:ios:a2defadb795c160b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ios-cameraaction.firebaseio.com</string>
+</dict>
+</plist>
